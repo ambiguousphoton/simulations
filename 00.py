@@ -13,7 +13,7 @@ print(tuple)
 
 def dictionary():
     dictionary = {
-        "jai": 5,
+        "jai": 7,
         "hariom": 7,
         "bad": 00000
         }
